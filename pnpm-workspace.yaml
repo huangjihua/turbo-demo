@@ -1,3 +1,4 @@
 packages:
   - "apps/*"
   - "packages/*"
+  # - 'playground' # 代表把 playground 包添加到 pnpm monorepo 的管理
